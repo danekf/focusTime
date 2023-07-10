@@ -28,3 +28,36 @@ redux persist
 
   <li>Allow redirect to more than just homepage, when logging in. Will require allowing more pages of redirects on spotify login when done.</li>
 </ul>
+
+
+## Minimum Viable Product requirements
+
+-[ ] Spotify Login
+-[ ] Ability to control music
+-[ ] Auto stop music once timer is over, and song has finished (do not interupt current song until it is over)
+-[ ] Pause timer if music is paused (thoug this should be an aid to focus without interuption, sometimes interuptions STILL happen.)
+-[ ] Visual fanfare when focus time is completed.
+
+## Stretch Goals
+
+-[ ] Signed in user can track stats.
+  -[ ] Focus minutes per day.
+  -[ ] Focus minutes per week.
+  -[ ] Track pasues to focus time.
+  -[ ] Most productive times of day.
+  -[ ] Most productive playlists.
+
+-[ ] Set goals to achieve for time focused.
+
+
+## Super stretch/silly ideas
+
+-[ ] Crypto integration with smart contracts. Once certain focus goals are met, automatically release some "FUN" funds that can be used towards activities. 
+  -[ ] Parent control/smart contract rewards for child accounts?
+  -[ ] How to validate focus time is not cheated? (Honour system is not ideal if child account.)
+
+-[ ] Leaderboards?
+-[ ] Groups?
+
+
+

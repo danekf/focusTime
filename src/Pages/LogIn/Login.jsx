@@ -11,7 +11,7 @@ import { useEffect, useState } from "react";
 
 const Login = () => {
 
-  //TODO Set this to redux instead of just on page
+  //TODO Set this to redux instead of just on page. Allowing token to be used across site.
   const [token, setToken] = useState('');
 
   useEffect( () => {
